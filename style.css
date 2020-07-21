@@ -1,0 +1,39 @@
+.menu{
+    background-color: turquoise;
+}
+
+.header{
+    background-color: blue;  
+    display: flex;
+    justify-content: space-between;
+  }
+  
+
+   .h1{
+      text-align: center;
+    }
+
+    .h2{
+      color: blue;
+    }
+  
+  .h3{
+        color: green;
+    }
+    
+        body {
+          background-image: url('rain.jpg');
+        }
+
+  .p {
+      text-align: center;
+    }
+  .div {
+      text-align: center;
+    }
+  */
+
+  *{
+    text-align: center;
+    
+  }
